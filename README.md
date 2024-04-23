@@ -1,4 +1,4 @@
-![](https://github.com/Ahmed-Zahran-AZ/STM32-PCB-Design/blob/main/Keyshot%20Render/Render/STM32.bip.76.png)
+![](https://github.com/Ahmed-Zahran-AZ/STM32-PCB-Design/blob/main/Keyshot%20Render/Render/STM32.bip.77.png)
 ---
 # To-do:
 - PCB Enclosure, some resources
